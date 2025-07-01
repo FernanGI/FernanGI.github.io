@@ -23,4 +23,4 @@ author_profile: true
 ## Thesis
 - Bachelor thesis: "[Estudio de las curvas geodésicas y los tensores curvatura de Riemann y Ricci en variedades semiriemannianas](http://hdl.handle.net/10234/195548)" (Study of the geodesic curves and the curvature tensors of Riemann and Ricci in semi-Riemannian manifolds.) Supervisor: Vicent Gimeno i García.
 - Master at Polytechnique University of Valencia: "[Campos vectoriales de Killing e isometrías en variedades semiriemannianas](https://riunet.upv.es/entities/publication/e8e1bbda-4695-4000-b797-be39996b3220)"(Killing vectorfields and isometries in semi-Riemannian manifolds) Supervisors: Francisco Monserrat del Palillo and Vicent Gimeno i García
--Master at University of Münster: The higher codimensions positive energy theorem. Supervisor: Rudolf Zeidler. 
+- Master at University of Münster: **The higher codimensions positive energy theorem**. Supervisor: Rudolf Zeidler. 
