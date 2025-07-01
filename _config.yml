@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Fernán González Ibáñez"
   avatar : "/assets/images/me.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Bienvenido a la república independiente de Sones."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
