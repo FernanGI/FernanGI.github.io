@@ -7,7 +7,7 @@ author_profile: true
 
 ## Preprints
 - [**Torsional rigidity under geometric flows**](https://arxiv.org/pdf/2411.17435) together with Vicent Gimeno i García.
-# Talks in Congress
+## Talks in Congress
 - **Basketball vs. Watermelon: From Which One Will The Ant Escape First?** at *IX BYMAT Conference: Bringing Young Mathematicians Together* (November 4th-7th 2024).
 - **Torsional Rigidity under geometric flows** at *Reunión Investigadores Jóvenes de la Red Española de Análisis Geométrico* (November 27th-29th 2024).
 
