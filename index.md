@@ -5,7 +5,7 @@ classes: wide
 title: "Fernán González Ibáñez"     
 author_profile: true
 header:
-  image: "https://github.com/FernanGI/FernanGI.github.io/blob/master/assets/images/portada.jpeg"
+  image: "https://raw.githubusercontent.com/FernanGI/FernanGI.github.io/refs/heads/master/assets/images/portada.jpeg"
   overlay_color: "primary"   # opcional: color de la superposición
   overlay_opacity: 0.5       # opcional: opacidad de la superposición
   tagline: "Welcome!"
