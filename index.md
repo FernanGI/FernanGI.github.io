@@ -6,8 +6,8 @@ layout: single
 classes: wide
 author_profile: true
 ---
+| | |
+|-|-|
+| ![alt text](assets/images/me.jpeg "Credit to [Alba Arrabal](https://www.instagram.com/arrabal_draws/)")    |¡Hola! I am a PhD student in mathematics at the University of Granada. Previously I completed a master in mathematics in the University of Münster under the supervision of Rudolf Zeidler and previously I did a master in Mathematical Research in Universidad Politécnica de Valencia and I completed my bachelor in the Universitat Jaume I of Castellón where I wrote my thesis under the supervision of Vicent Gimeno i Garcia. I am interested in differential geometry, mainly geometric analysis and minimal surfaces. Also I am interested in scientific computing and programming.   |
 
-[!] 
-¡Hola! I am a PhD student in mathematics at the University of Granada. Previously I completed a master in mathematics in the University of Münster under the supervision of Rudolf Zeidler and previously I did a master in Mathematical Research in Universidad Politécnica de Valencia and I completed my bachelor in the Universitat Jaume I of Castellón where I wrote my thesis under the supervision of Vicent Gimeno i Garcia. 
 
-I am interested in differential geometry, mainly geometric analysis and minimal surfaces. Also I am interested in scientific computing and programming. 
