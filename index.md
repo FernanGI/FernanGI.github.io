@@ -14,5 +14,4 @@ Welcome to my place in the internet. I am Fernán González Ibáñez. I am a PhD
 
 I like to learn about problems in differential geometry—particularly geometric analysis and minimal surfaces—using both rigorous theoretical methods and using computational tools to approach the problem with the intuition. I also have a strong interest in scientific computing and programming.
 
-Prueba
 
