@@ -1,6 +1,6 @@
 ---
 title: "About"
-layout: singe
+layout: single
 permalink: /about/
 layout: tags
 ---
