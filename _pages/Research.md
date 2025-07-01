@@ -18,7 +18,7 @@ author_profile: true
 - [**Swan’s theorem: A ballet of C∗-algebras and K-theory in the Swan lake.**](https://sites.google.com/u/0/d/19G8fJrR94z_009hAjih5pKlSd9kVZCEo/p/1t6LrMLo7jrJpoCZtv8TSvIl65nTjpweu/preview?authuser=0) at the seminar in K-theory.
 - 
 ## Posters
-- [**Torsional Rigidity under geometric flows**](assets/images/Poster_Torsional_Rigidity_under_Geometric_Flows.pdf) at II Encuentro IMAG (26 June 20252)
+- [**Torsional Rigidity under geometric flows**](https://github.com/FernanGI/FernanGI.github.io/blob/master/assets/images/Poster_Torsional_Rigidity_under_Geometric_Flows.pdf) at II Encuentro IMAG (26 June 20252)
 
 ## Thesis
 - Bachelor thesis: "[Estudio de las curvas geodésicas y los tensores curvatura de Riemann y Ricci en variedades semiriemannianas](http://hdl.handle.net/10234/195548)" (Study of the geodesic curves and the curvature tensors of Riemann and Ricci in semi-Riemannian manifolds.) Supervisor: Vicent Gimeno i García.
