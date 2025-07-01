@@ -2,9 +2,9 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 classes: wide
+title: "Fernán González Ibáñez"     
 author_profile: true
-hero:
-  title: "Fernán González Ibález"
+header:
   image: "https://github.com/FernanGI/FernanGI.github.io/blob/master/assets/images/portada.jpeg"
   overlay_color: "primary"   # opcional: color de la superposición
   overlay_opacity: 0.5       # opcional: opacidad de la superposición
