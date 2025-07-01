@@ -14,8 +14,8 @@ author_profile: true
 
 ## Talk in Seminars
 - [**The higher codimension positive energy theorem**](https://causal-fermion-system.com/wp-content/uploads/2025/06/slides-gonzalez-2.pdf) at *Working Seminar "Mathematical Physics"* at the University of Regensburg (June 12th 2025)
-- [**Sculpting positivity: The artistry of connected sum & surgery of positive scalar curvature manifolds.**]([https://sites.google.com/u/0/d/19G8fJrR94z_009hAjih5pKlSd9kVZCEo/p/1t6LrMLo7jrJpoCZtv8TSvIl65nTjpweu/preview?authuser=0](https://drive.google.com/file/d/1xsAEI_95rkw-CQzWaUmGpcGIgTPAoiYs/view)) in the master seminar about Cobordism.
-- [**Swan’s theorem: A ballet of C∗-algebras and K-theory in the Swan lake.**](https://sites.google.com/u/0/d/19G8fJrR94z_009hAjih5pKlSd9kVZCEo/p/1t6LrMLo7jrJpoCZtv8TSvIl65nTjpweu/preview?authuser=0) at the seminar in K-theory.
+- [**Sculpting positivity: The artistry of connected sum & surgery of positive scalar curvature manifolds.**](https://github.com/FernanGI/FernanGI.github.io/blob/master/assets/images/Cobordism.pdf)) in the master seminar about Cobordism.
+- [**Swan’s theorem: A ballet of C∗-algebras and K-theory in the Swan lake.**](https://github.com/FernanGI/FernanGI.github.io/blob/master/assets/images/talk-K-theory.pdf) at the seminar in K-theory.
 - 
 ## Posters
 - [**Torsional Rigidity under geometric flows**](https://github.com/FernanGI/FernanGI.github.io/blob/master/assets/images/Poster_Torsional_Rigidity_under_Geometric_Flows.pdf) at II Encuentro IMAG (26 June 20252)
