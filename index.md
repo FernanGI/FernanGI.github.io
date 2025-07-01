@@ -6,6 +6,7 @@ layout: single
 classes: wide
 author_profile: true
 ---
-¡Hola! I am a PhD student in mathematics at the University of Granada. Previously I completed a master in mathematics in the University of Münster under the supervision of Rudolf Zeidler and previously I did a master in Mathematical Research in Universidad Politécnica de Valencia and I completed my bachelor in the Universitat Jaume I of Castellón where I wrote my thesis under the supervision of Vicent Gimeno i Garcia. I am interested in differential geometry, mainly geometric analysis and minimal surfaces. Also I am interested in scientific computing and programming.  
+¡Hola! I am a PhD student in Mathematics at the University of Granada, under the supervision of José María Espinar and Joaquín Pérez. Previously, I earned a Master’s degree in Mathematics from the University of Münster, supervised by Rudolf Zeidler, and a Master’s in Mathematical Research from the Polytechnic University of Valencia. I completed my Bachelor’s degree at Universitat Jaume I (Castellón), where I wrote my thesis under the guidance of Vicent Gimeno i García.
 
+My research focuses on differential geometry—particularly geometric analysis and minimal surfaces—and I also have a strong interest in scientific computing and programming.
 
