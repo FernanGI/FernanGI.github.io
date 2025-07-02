@@ -1,8 +1,12 @@
 ---
 title: "Research"
 permalink: /research/
-layout: tags
-author_profile: true
+layout: single
+author_profile: false
+header:
+  image: "/assets/images/research.jpg"
+  overlay_color: "primary"
+  overlay_opacity: 0.5
 ---
 
 ## Preprints
