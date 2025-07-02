@@ -3,7 +3,7 @@ title: "Research"
 permalink: /research/
 layout: single
 author_profile: false
-header:
+hero:
   image: "/assets/images/research.jpg"
   overlay_color: "primary"
   overlay_opacity: 0.5
