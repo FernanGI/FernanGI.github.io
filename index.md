@@ -4,7 +4,7 @@ layout: single
 classes: wide
 title: "Fernán González Ibáñez"     
 author_profile: true
-header:
+hero:
   image: "/assets/images/portada.jpeg"
   overlay_color: "primary"   # opcional: color de la superposición
   overlay_opacity: 0.5       # opcional: opacidad de la superposición
