@@ -9,6 +9,3 @@ layout: tags
 
 
 ![Me in a lake](/assets/images/distance.jpeg)
-
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/distance.jpeg)
-{: .full}
